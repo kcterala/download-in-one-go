@@ -7,6 +7,7 @@ import MacAppDownloader from './components/MacAppDownloader';
 const App = () => {
 
   return (
+	
     <MacAppDownloader/>
   );
 }
